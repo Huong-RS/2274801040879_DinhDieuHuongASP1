@@ -1,0 +1,6 @@
+@DemoHASP_HostAddress = http://localhost:5158
+
+GET {{DemoHASP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
